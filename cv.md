@@ -1,5 +1,5 @@
 # OBUSHCHAK OLGA
-### Fullstack Developer
+#### Fullstack Developer
 
 ## Contacts
 * +382-68829156
@@ -15,11 +15,6 @@ As a junior front-end developer, I am enthusiastic and motivated to contribute m
 
 ## Tech Skills
 * JavaScript 
-* React
-* Redux
-* React-Native 
-* REST API 
-* Node.js
 * HTML5/CSS3/SASS
 * GIT 
 * WebPack 
@@ -49,6 +44,6 @@ Role: Developer. A website with a responsive layout, hamburger menu, modal windo
 
 ## Languages
 * Ukrainian - nativ 
-* English - A2
+* English - Beginer
 * Russian - nativ 
 
